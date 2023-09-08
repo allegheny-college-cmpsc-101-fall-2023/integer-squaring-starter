@@ -34,8 +34,7 @@ that are stored in a file. The learning objectives of this assignment are to:
 ## Seeking Assistance
 
 Please review the course expectations on the syllabus about
-[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-
-fall-2023/course-materials#seeking-assistance). Students are reminded
+[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#seeking-assistance). Students are reminded
 to uphold the Honor Code. Cloning the assignment repository is a
 commitment to the latter.
 
