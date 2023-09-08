@@ -10,30 +10,37 @@
 [![Discord](https://img.shields.io/discord/872320492936257537?logo=discord)](https://discord.gg/kjah8MFYbR)
 
 - Due date: Check the [Proactive Programmers Discord
-server](https://discord.gg/kjah8MFYbR). 
-- This assignment will be submitted on GitHub following the expectations in the syllabus on [Assignment Submission](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#assignment-submission). 
-- To begin, read this `README` and the Proactive Programmers' project description for [Integer
-Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/) 
+server](https://discord.gg/kjah8MFYbR).
+- This assignment will be submitted on GitHub following
+the expectations in the syllabus on
+[Assignment Submission](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#assignment-submission).
+- To begin, read this `README` and the Proactive Programmers' project
+description for [Integer
+Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/)
 
 ## Learning Objectives
 
-This assignment is about using introductory programming concepts and software development 
-tools to complete a command line interface for squaring numbers 
-that are stored in a file. The learning objectives of this assignment are to: 
+This assignment is about using introductory programming concepts and
+software development
+tools to complete a command line interface for squaring numbers
+that are stored in a file. The learning objectives of this assignment are to:
 
-1. Use Git and GitHub to manage source code file changes 
+1. Use Git and GitHub to manage source code file changes
 2. Use linters, code, and markdown formatters
 3. Use VS Code and virtual enviroment management tools
 4. Compare `for` and `while` loops
-5. Write clearly about the coding and development concepts in this assignment. 
-
-
+5. Write clearly about the coding and development concepts in this assignment.
 
 ## Seeking Assistance
 
-Please review the course expectations on the syllabus about [Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#seeking-assistance). Students are reminded to uphold the Honor Code. Cloning the assignment repository is a commitment to the latter.
+Please review the course expectations on the syllabus about
+[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-
+fall-2023/course-materials#seeking-assistance). Students are reminded
+to uphold the Honor Code. Cloning the assignment repository is a
+commitment to the latter.
 
-For this assignment, you may use class materials, textbooks, notes, and the internet. However,
+For this assignment, you may use class materials, textbooks, notes, and the
+internet. However,
 when asked to write "in your own words", you must use _your own_ words.
 
 Post questions to the [Proactive Programmers Discord server](https://discord.gg/kjah8MFYbR).
