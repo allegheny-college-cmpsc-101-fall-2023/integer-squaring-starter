@@ -14,9 +14,14 @@ server](https://discord.gg/kjah8MFYbR).
 - This assignment will be submitted on GitHub following
 the expectations in the syllabus on
 [Assignment Submission](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#assignment-submission).
+- Modifications to the gatorgrade.yml file are not permitted without explicit instruction.
 - To begin, read this `README` and the Proactive Programmers' project
 description for
-[Integer Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/)
+[Integer Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/).
+- You can check the
+[integer-squaring-starter repository](https://github.com/allegheny-college-cmpsc-101-fall-2023/integer-squaring-starter)
+for any updates to this project's documentation or
+source code.
 
 ## Learning Objectives
 
