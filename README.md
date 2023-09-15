@@ -1,6 +1,6 @@
-![Proactive Programmers](.github/images/Square-Proactive-Programmers-Logo.svg)
-
 # Integer Squaring
+
+![Proactive Programmers](.github/images/Square-Proactive-Programmers-Logo.svg)
 
 [![build](../../actions/workflows/build.yml/badge.svg)](../../actions/)
 ![Platforms: Linux, MacOS, Windows](https://img.shields.io/badge/Platform-Linux%20%7C%20MacOS%20%7C%20Windows-blue.svg)
@@ -15,8 +15,8 @@ server](https://discord.gg/kjah8MFYbR).
 the expectations in the syllabus on
 [Assignment Submission](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#assignment-submission).
 - To begin, read this `README` and the Proactive Programmers' project
-description for [Integer
-Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/)
+description for
+[Integer Squaring](https://proactiveprogrammers.com/data-abstraction/engineering-efforts/integer-squaring/)
 
 ## Learning Objectives
 
@@ -34,7 +34,8 @@ that are stored in a file. The learning objectives of this assignment are to:
 ## Seeking Assistance
 
 Please review the course expectations on the syllabus about
-[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#seeking-assistance). Students are reminded
+[Seeking Assistance](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials#seeking-assistance).
+Students are reminded
 to uphold the Honor Code. Cloning the assignment repository is a
 commitment to the latter.
 
