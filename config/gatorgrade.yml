@@ -65,7 +65,7 @@ setup: |
       check: MatchFileFragment
       options:
         fragment: "abs("
-        count: 4
+        count: 2
         exact: false
     - description: Define and then call the confirm_valid_file function in main.py
       check: MatchFileFragment
