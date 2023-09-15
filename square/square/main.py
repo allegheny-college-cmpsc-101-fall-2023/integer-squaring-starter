@@ -50,10 +50,12 @@ def compute_square_iterative(
 ) -> List[int]:
     """Compute the square of all of the integer values inside of the contents."""
     # TODO: create an empty list for the squared values
-    # TODO: iterate through all of the items in the contents
+    # TODO: split the contents using .split('\n')
+    # TODO: iterate through all of the lines in the split contents
     # --> TODO: convert the line into a number
     # --> TODO: perform the number squaring computation with square_function
     # --> TODO: add the squared_number to the square_list
+    # TODO: handle any errors related to converting a line into a number 
     # TODO: return the list of the squared numbers
 
 
